@@ -1,2 +1,2 @@
-# SimplifiedPubChemAPI
-Simplified PubChem API to retrieve and save only the information you need
+# Python API using FastAPI
+Adapted PubChem PUG REST
